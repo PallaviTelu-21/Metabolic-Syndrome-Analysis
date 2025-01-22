@@ -38,28 +38,28 @@ This repository contains resources for the project "Investigating Prevalence of 
 4. **Visualization**:
    - Created boxplots, histograms, and correlation heatmaps to explore variable trends and relationships.
      
-# Key Findings
+## Key Findings
 - BMI: The strongest health predictor of metabolic syndrome prevalence.
 - Race: Individuals of Mexican American descent exhibited the highest risk among demographic groups.
 - Age: Increasing age significantly elevated the odds of metabolic syndrome.
 - HDL Levels: Low HDL cholesterol levels were strongly associated with metabolic syndrome.
   
-# Limitations
+## Limitations
 - Logistic regression assumes linearity and independence, which may not hold in complex datasets.
 - Sample size limitations within certain demographic categories could affect generalizability.
 
-# Applications
+## Applications
 - Healthcare Providers: Tailor interventions to address significant risk factors like BMI and glucose levels.
 - Public Health: Develop targeted initiatives for at-risk populations, such as Mexican American individuals.
 
-# Contributors
+## Contributors
 - Asha Chirumamilla
 - Likhitha Arigala
 - Pallavi Telu
 - Teja Pavani Jyesta
 - William Teske
 
-# Contact
+## Contact
 For questions or suggestions, please contact:  
 Pallavi Telu - [ptelu@iu.edu](mailto:ptelu@iu.edu)
 
