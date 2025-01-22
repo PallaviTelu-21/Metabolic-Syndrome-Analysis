@@ -14,7 +14,7 @@ This repository contains resources for the project "Investigating Prevalence of 
 ## Files in the repository
 
 - `metabolic-syndrome-analysis.Rmd`: R Markdown file containing code for data cleaning, statistical analyses, and visualizations.
-- `metabolic-syndrome-report.pdf`: Detailed report outlining the study's objectives, methodology, findings, and conclusions.
+- `metabolic-syndrome-project-report.pdf`: Detailed report outlining the study's objectives, methodology, findings, and conclusions.
 - `metabolic-syndrome-presentation.pdf`: Slide deck summarizing the project, including key findings and implications.
 
 ## Methodology
