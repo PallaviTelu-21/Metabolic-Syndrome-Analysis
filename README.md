@@ -1,4 +1,4 @@
-# Disparity Analysis in Metabolic Syndrome Prevalence 
+# Investigating the prevalance of metabolic syndrome
 
 This repository contains resources for the project "Investigating Prevalence of Metabolic Syndrome", which examines the relationships between demographic and health factors and their influence on the prevalence of metabolic syndrome. Leveraging robust statistical techniques, the project provides insights to inform prevention and intervention strategies for metabolic syndrome.
 
